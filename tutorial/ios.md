@@ -1,9 +1,9 @@
 # IOS教程
 
-### 1.在APPSTORE 搜索相关客户端, 并下载安装.
+## 1.在APPSTORE 搜索相关客户端, 并下载安装.
 
 {% hint style="success" %}
- 支持ss协议的IOS软件有：**Shadowrocket**、Surge等。
+支持ss协议的IOS软件有：**Shadowrocket**、Surge等。
 
 **推荐下载：Shadowrocket**
 
@@ -12,7 +12,7 @@
 过程其实很简单，只需要在选择区域的时候选择美国或者香港即可。
 {% endhint %}
 
-### 2.获取账户信息.
+## 2.获取账户信息.
 
 注册登陆 **​**[**『用户中心』**](../)**​** ，选择 **『账号』** ，获取账号信息。
 
@@ -22,7 +22,7 @@
 
 ![](../.gitbook/assets/ss_user.jpg)
 
-### 3.配置软件.
+## 3.配置软件.
 
 {% hint style="info" %}
 以下教程以**Shadowrocket**为例图解配置步骤。
@@ -30,9 +30,9 @@
 
 ![](../.gitbook/assets/ss_ios.jpg)
 
-###  联系我们 <a id="lian-xi-wo-men"></a>
+## 联系我们  <a id="lian-xi-wo-men"></a>
 
 {% hint style="success" %}
- 邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
+邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
 {% endhint %}
 
