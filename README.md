@@ -4,10 +4,10 @@
 
 | 区域 | 用户中心 | 注册 | \| | 区域 | 用户中心 | 注册 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **A.** | ​[用户中心 - A区](https://a.ss4user.com)​ | 开放 | \| | **B.** | ​[回国线路 - B区](https://b.ss4user.com)​ | 开放 |
-| **C.** | ​[用户中心 - C区](https://c.ss4user.com)​ | 开放 | \| | **D.** | ​[用户中心 - D区](https://d.ss4user.com)​ | 开放 |
-| **E.** | ​[用户中心 - E区](https://e.ss4user.com)​ | ~~关闭~~ | \| | **F.** | ​[用户中心 - F区](https://f.ss4user.com)​ | 开放 |
-| **R.** | ​[用户中心 - R区](https://r.ss4user.com)​ | ~~关闭~~ | \| | ​ | ​ | ​ |
+| **A.** | ​[用户中心 - A区](https://a.lmout.xyz)​ | 开放 | \| | **B.** | ​[回国线路 - B区](https://b.lmout.xyz)​ | 开放 |
+| **C.** | ​[用户中心 - C区](https://c.lmout.xyz)​ | 开放 | \| | **D.** | ​[用户中心 - D区](https://d.lmout.xyz)​ | 开放 |
+| **E.** | ​[用户中心 - E区](https://e.lmout.xyz)​ | ~~关闭~~ | \| | **F.** | ​[用户中心 - F区](https://f.lmout.xyz)​ | 开放 |
+| **R.** | ​[用户中心 - R区](https://r.lmout.xyz)​ | ~~关闭~~ | \| | ​ | ​ | ​ |
 
 ## 说明   <a id="shuo-ming"></a>
 
