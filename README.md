@@ -9,14 +9,14 @@
 | **E.** | ​[用户中心 - E区](https://e.ss4user.com)​ | ~~关闭~~ | \| | **F.** | ​[用户中心 - F区](https://f.ss4user.com)​ | 开放 |
 | **R.** | ​[用户中心 - R区](https://r.ss4user.com)​ | ~~关闭~~ | \| | ​ | ​ | ​ |
 
-## 说明  <a id="shuo-ming"></a>
+## 说明   <a id="shuo-ming"></a>
 
 > 1. 分区旨在控制服务器人数，负载均衡。
 > 2. **『B区为回国线路』**，除此之外其他大区提供无差别的服务，无需重复注册。
 > 3. 各大区账号数据相互独立，注册通知邮件里包含当前大区信息。
 > 4. **『忘记大区』**，如果忘记账号在哪个大区，请查看注册通知邮件。
 
-## 联系我们  <a id="lian-xi-wo-men"></a>
+## 联系我们   <a id="lian-xi-wo-men"></a>
 
 {% hint style="success" %}
 邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
