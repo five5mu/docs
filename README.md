@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **A.** | ​[用户中心 - A区](https://a.lmout.xyz)​ | 开放 | \| | **B.** | ​[回国线路 - B区](https://b.lmout.xyz)​ | 开放 |
 | **C.** | ​[用户中心 - C区](https://c.lmout.xyz)​ | 开放 | \| | **D.** | ​[用户中心 - D区](https://d.lmout.xyz)​ | 开放 |
-| **E.** | ​[用户中心 - E区](https://e.lmout.xyz)​ | ~~关闭~~ | \| | **F.** | ​[用户中心 - F区](https://f.lmout.xyz)​ | 开放 |
+| **E.** | ​[用户中心 - E区](https://e.lmout.xyz)​ | ~~关闭~~ | \| | **F.** | ​[用户中心 - F区](https://f.lmoutcn.xyz/)​ | 开放 |
 | **R.** | ​[用户中心 - R区](https://r.lmout.xyz)​ | ~~关闭~~ | \| | ​ | ​ | ​ |
 
 ## 说明   <a id="shuo-ming"></a>
