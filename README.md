@@ -1,14 +1,14 @@
 # 首页
 
-## 用户中心
+{% page-ref page="tutorial/windows.md" %}
 
-> 1. 请通过注册/支付邮件里的**『防走丢链接』**进入用户中心。
-> 2. 我们有多个用户大区，分区旨在控制服务器人数，负载均衡。
-> 3. **『B区为回国线路』**，除此之外其他大区提供无差别的服务，无需重复注册。
-> 4. 各大区账号数据相互独立，注册通知邮件里包含当前大区信息。
-> 5. **『忘记大区』**，如果忘记账号在哪个大区，请查看注册/支付邮件。
+{% page-ref page="tutorial/macos.md" %}
 
-## 联系我们   <a id="lian-xi-wo-men"></a>
+{% page-ref page="tutorial/android.md" %}
+
+{% page-ref page="tutorial/ios.md" %}
+
+## 联系我们  
 
 {% hint style="success" %}
 邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
