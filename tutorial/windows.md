@@ -9,12 +9,12 @@
 {% endhint %}
 
 {% hint style="info" %}
-注意：如果下载解压后无法运行，提示 "应用程序正常初始化失败" ，说明系统缺少.net framework ，请先安装 [\[.NET Framework\]](https://www.microsoft.com/zh-CN/download/details.aspx?id=48130)
+注意：如果下载解压后无法运行，提示 "应用程序正常初始化失败" ，说明系统缺少.net framework ，请先安装 [\[.NET Framework\]](https://www.microsoft.com/zh-CN/download/details.aspx?id=53344)
 {% endhint %}
 
 ## 2.获取账号信息.
 
-注册登陆 [**『用户中心』**](../) **，**选择 **『账号』** ，获取账号信息。
+注册登陆 [**『用户中心』**](https://user.fkwall.com) **，**选择 **『账号』** ，获取账号信息。
 
 {% hint style="info" %}
 账号信息包括： 1.地址，2.端口，3.密码，4.加密方式
