@@ -1,26 +1,28 @@
-# Windows教程
+# SSR for Windows
+
+
 
 ## 1.下载软件.
 
-下载并运行Windows下的软件。（请从本站链接下载软件）
+下载并运行SSR for Windows（请从本站链接下载软件）
 
 {% hint style="success" %}
 [**本地下载**](http://dl.nordss.com/last_windows.zip)   **/**   [**Github下载**](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.2/Shadowsocks-4.1.2.zip)
 {% endhint %}
 
 {% hint style="info" %}
-注意：如果下载解压后无法运行，提示 "应用程序正常初始化失败" ，说明系统缺少.net framework ，请先安装 [\[.NET Framework\]](https://www.microsoft.com/zh-CN/download/details.aspx?id=53344)
+注意：如果下载解压后无法运行，提示 "应用程序正常初始化失败" ，说明系统缺少.net framework ，请先安装 [\[.NET Framework\]](https://go.microsoft.com/fwlink/?LinkID=863265)
 {% endhint %}
 
-## 2.获取账号信息.
+## 2.获取订阅地址.
 
-注册登陆 [**『用户中心』**](https://user.fkwall.com) **，**选择 **『账号』** ，获取账号信息。
+注册登陆 [**『用户中心』**](https://user.fkwall.com) **，**选择 **『我的服务』-『管理产品』** ，获取订阅地址。
 
-{% hint style="info" %}
-账号信息包括： 1.地址，2.端口，3.密码，4.加密方式
-{% endhint %}
+![](../.gitbook/assets/222.jpg)
 
 ## 3.配置软件.
+
+
 
 运行软件，双击右下角的角标，将账号信息依次填入软件，然后点击**『确定』。**
 
