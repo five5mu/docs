@@ -28,5 +28,7 @@
 
 运行软件，双击
 
+<video src="https://www.domain.com/video.mp4" width="100%" height="100%"></video>
+
 
 
