@@ -5,7 +5,7 @@
 下载并运行 SSR for Windows（请从本站链接下载软件）
 
 {% hint style="success" %}
-[**本地下载**](http://dl.nordss.com/last_windows.zip)   **/**   [**Github下载**](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.2/Shadowsocks-4.1.2.zip)
+[**本地下载**](http://dl.nordss.com/last_windows.zip) **/** [**Github下载**](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.2/Shadowsocks-4.1.2.zip)
 {% endhint %}
 
 {% hint style="info" %}
@@ -20,15 +20,11 @@
 
 ## 3.配置软件.
 
+
+
 点击**『订阅设置』**菜单进入订阅设置窗口，粘贴第 2 步复制的订阅地址后点击**『确定』**。
 
 点击**『更新订阅』**菜单以同步服务器节点。
 
 前往**『服务器』**菜单选取合适的节点。
-
-运行软件，双击
-
-<video src="https://www.domain.com/video.mp4" width="100%" height="100%"></video>
-
-
 
