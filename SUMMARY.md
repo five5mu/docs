@@ -5,6 +5,7 @@
 ## SSR教程（订阅）
 
 * [SSR for Windows](ssr/ssr-for-windows.md)
+* [SSR for SSTap](ssr/ssr-for-sstap.md)
 * [SSR for MacOS](ssr/ssr-for-macos.md)
 * [SSR for Android](ssr/ssr-for-android.md)
 * [SSR for IOS](ssr/ssr-for-ios.md)
