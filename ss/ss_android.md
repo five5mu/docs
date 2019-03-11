@@ -34,9 +34,3 @@
 
 ![](../.gitbook/assets/ss_android3.jpg)
 
-## 联系我们   <a id="lian-xi-wo-men"></a>
-
-{% hint style="success" %}
-邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
-{% endhint %}
-

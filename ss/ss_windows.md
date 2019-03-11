@@ -46,9 +46,3 @@
 PAC模式的优点是境外服务走代理，境内服务不走代理。缺点是有时判断不准确，造成某些服务打不开，这时候切换至全局模式即可。
 {% endhint %}
 
-## 联系我们
-
-{% hint style="success" %}
-邮箱：[five5mu@gmail.com](mailto:five5mu@gmail.com)​
-{% endhint %}
-
