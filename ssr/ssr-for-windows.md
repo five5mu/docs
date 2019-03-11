@@ -18,7 +18,7 @@
 
 注册登陆 [**『用户中心』**](https://user.fkwall.com) **，**选择 **『我的服务』-『管理产品』** ，获取订阅地址。
 
-![](../.gitbook/assets/222.jpg)
+![](../.gitbook/assets/subscribe.jpg)
 
 ## 3.配置软件.
 
