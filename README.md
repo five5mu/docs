@@ -1,12 +1,12 @@
 # 首页
 
-{% page-ref page="tutorial/windows.md" %}
+{% page-ref page="shi-yong-jiao-cheng/windows.md" %}
 
-{% page-ref page="tutorial/macos.md" %}
+{% page-ref page="shi-yong-jiao-cheng/macos.md" %}
 
-{% page-ref page="tutorial/android.md" %}
+{% page-ref page="shi-yong-jiao-cheng/android.md" %}
 
-{% page-ref page="tutorial/ios.md" %}
+{% page-ref page="shi-yong-jiao-cheng/ios.md" %}
 
 ## 联系我们  
 

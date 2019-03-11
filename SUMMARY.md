@@ -4,12 +4,12 @@
 
 ## 使用教程
 
-* [Windows教程](tutorial/windows.md)
-* [MacOS教程](tutorial/macos.md)
-* [Android教程](tutorial/android.md)
-* [IOS教程](tutorial/ios.md)
+* [Windows教程](shi-yong-jiao-cheng/windows.md)
+* [MacOS教程](shi-yong-jiao-cheng/macos.md)
+* [Android教程](shi-yong-jiao-cheng/android.md)
+* [IOS教程](shi-yong-jiao-cheng/ios.md)
 
 ## 关于
 
-* [联系方式](about/contact.md)
+* [联系方式](guan-yu/contact.md)
 
