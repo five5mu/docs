@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
-* [用户中心](https://my.d7networks.xyz/)
+* [用户中心](https://ss.5mu.me/)
 
 ## SSR教程（订阅）
 
@@ -20,5 +20,5 @@
 
 ## 关于
 
-* [联系我们](https://my.d7networks.xyz/submitticket.php)
+* [联系我们](https://ss.5mu.me/submitticket.php)
 
