@@ -2,6 +2,7 @@
 
 * [首页](README.md)
 * [用户中心](https://ss.5mu.me/)
+* [联系我们](https://ss.5mu.me/submitticket.php)
 
 ## SHADOWSOCKS原版
 
@@ -17,8 +18,4 @@
 * [SSR for MacOS](ssr/ssr-for-macos.md)
 * [SSR for Android](ssr/ssr-for-android.md)
 * [SSR for IOS](ssr/ssr-for-ios.md)
-
-## 关于
-
-* [联系我们](https://ss.5mu.me/submitticket.php)
 
