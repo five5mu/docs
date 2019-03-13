@@ -9,7 +9,7 @@
 现阶段SSR的过多参数反而成了“特征”，相比之下原版SS更为可靠。
 
 {% hint style="success" %}
-**本站推荐使用Shadowsocks原版软件。**
+**本站推荐使用SHADOWSOCKS原版软件**
 {% endhint %}
 
 ## 2.获取订阅地址.
