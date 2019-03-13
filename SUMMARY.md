@@ -13,6 +13,6 @@
 
 ## SSR教程（订阅）
 
-* [SSTap教程](ssr/ssr-for-sstap.md)
+* [SSTap游戏专用](ssr/ssr-for-sstap.md)
 * [必看说明](ssr/untitled.md)
 
