@@ -5,7 +5,7 @@
 下载并运行 SSR for Windows（请从本站链接下载软件）
 
 {% hint style="success" %}
-\*\*\*\*[**SSR for SSTap本地下载**](http://dl.nordss.com/last_sstap.zip)\*\*\*\*
+\*\*\*\*[**SSTap本地下载**](http://dl.nordss.com/last_sstap.zip)\*\*\*\*
 {% endhint %}
 
 ## 2.获取订阅地址.
@@ -18,7 +18,7 @@
 
 {% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSR for SSTap 视频教程" %}
 
-运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅网址。
+运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅地址。
 
 关闭 SSR 订阅管理窗口后将自动更新订阅，如更新失败，尝试手动更新。
 

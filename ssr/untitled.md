@@ -2,7 +2,11 @@
 
 ## 1.关于SSR.
 
-由于SSR项目停止维护，衍生软件版本过多，请使用在本站下载或推荐的软件。
+本站的服务理论上是支持原版SS以及SSR协议。
+
+由于SSR项目停止维护，衍生软件版本过多，存在多种订阅格式，容易出错。
+
+现阶段SSR的过多参数反而成了“特征”，相比之下原版SS更为可靠。
 
 {% hint style="success" %}
 **本站推荐使用Shadowsocks原版软件。**
@@ -14,13 +18,5 @@
 
 ![](../.gitbook/assets/subscribe.jpg)
 
-## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSR for SSTap 视频教程" %}
-
-运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅网址。
-
-关闭 SSR 订阅管理窗口后将自动更新订阅，如更新失败，尝试手动更新。
-
-根据您的需求，在主界面中选择「代理」以及「模式」，然后点击「连接」。
 
