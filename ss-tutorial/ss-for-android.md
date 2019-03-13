@@ -5,7 +5,7 @@
 下载并运行Android下的软件。（请从本站链接下载软件）
 
 {% hint style="success" %}
-[**本地下载**](https://dl.nordss.com/last_andriod.apk)   **/**   [**Github下载**](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks--universal-4.6.5.apk)
+[**本地下载**](http://dl.nordss.com/last_android.apk)   **/**   [**Github下载**](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.6.5/shadowsocks--universal-4.6.5.apk)
 {% endhint %}
 
 ## 2.获取账号信息.
