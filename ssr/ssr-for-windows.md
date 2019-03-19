@@ -16,11 +16,13 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSR for SSTap 视频教程" %}
+{% file src="../.gitbook/assets/ssr\_win.mp4" %}
 
-运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅地址。
+运行 ShadowsocksR.exe ,右键单击任务栏的 __ 图标弹出主菜单。
 
-关闭 SSR 订阅管理窗口后将自动更新订阅，如更新失败，尝试手动更新。
+点击「订阅设置」菜单进入订阅设置窗口，粘贴第 1 步复制的订阅网址后点击「确定」。
 
-根据您的需求，在主界面中选择「代理」以及「模式」，然后点击「连接」。
+点击「更新订阅」菜单以同步服务器节点。[更新订阅失败](https://whaleblue.zendesk.com/hc/zh-tw/articles/360006581452)？
+
+前往「服务器」菜单选取合适的节点。
 
