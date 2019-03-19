@@ -16,11 +16,21 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSR for SSTap 视频教程" %}
+{% file src="../.gitbook/assets/ssr\_mac.gif" %}
 
-运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅地址。
+运行 ShadowsocksX-NG-R8，点按屏幕顶部菜单栏中的  __图标弹出主菜单。
 
-关闭 SSR 订阅管理窗口后将自动更新订阅，如更新失败，尝试手动更新。
+前往「服务器」&gt;「编辑订阅」进入订阅设置窗口。
 
-根据您的需求，在主界面中选择「代理」以及「模式」，然后点击「连接」。
+点按订阅设置窗口左下角的「+」，粘贴第 1 步的复制的订阅网址后点按「OK」。
+
+前往「服务器」&gt;「手动更新订阅」以同步服务器节点。[如果更新订阅失败该怎么做](https://whaleblue.zendesk.com/hc/zh-tw/articles/360006581452)？
+
+前往「主菜单」&gt;「代理设置」&gt; 从 GFWList 更新 PAC 以及更新全部白名单。
+
+前往「主菜单」选择「白名单模式」。
+
+前往「服务器」选择合适的节点。
+
+点按主菜单「打开 Shadowsocks」即可【上网】。
 
