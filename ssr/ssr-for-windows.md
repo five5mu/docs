@@ -1,11 +1,11 @@
-# SSTap游戏专用
+# SSR Windows
 
 ## 1.下载软件.
 
 下载并运行 SSR for Windows（请从本站链接下载软件）
 
 {% hint style="success" %}
-\*\*\*\*[**SSTap本地下载**](http://dl.nordss.com/last_sstap.zip)\*\*\*\*
+\*\*\*\*[**本地下载**](http://dl.nordss.com/ssr_win.zip)\*\*\*\*
 {% endhint %}
 
 ## 2.获取订阅地址.
@@ -23,6 +23,4 @@
 关闭 SSR 订阅管理窗口后将自动更新订阅，如更新失败，尝试手动更新。
 
 根据您的需求，在主界面中选择「代理」以及「模式」，然后点击「连接」。
-
-
 
