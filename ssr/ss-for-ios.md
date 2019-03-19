@@ -30,7 +30,7 @@
 
 點擊選擇「Subscribe」；
 
-將從我站獲得的[訂閱網址](https://whaleblue.zendesk.com/hc/articles/360004910151)黏貼進「URL」欄；
+粘貼第 2 步複製的訂閱網址進「URL」欄；
 
 在「備註」欄位中給這個訂閱起個名字；
 
