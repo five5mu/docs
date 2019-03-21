@@ -16,7 +16,7 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSR for SSTap 视频教程" %}
+{% file src="../.gitbook/assets/ssr\_sstap.mp4" caption="SSTap 视频教程" %}
 
 运行 SSTap.exe &gt;  __&gt; SSR订阅 &gt; SSR订阅管理 &gt; 添加订阅地址。
 
