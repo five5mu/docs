@@ -16,7 +16,7 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_win.mp4" %}
+{% file src="../.gitbook/assets/ssr\_win.mp4" caption="SSR Windows 视频教程" %}
 
 运行 ShadowsocksR.exe ,右键单击任务栏的 __ 图标弹出主菜单。
 

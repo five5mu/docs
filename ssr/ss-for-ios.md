@@ -20,7 +20,7 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_ios.mp4" %}
+{% file src="../.gitbook/assets/ssr\_ios.mp4" caption="SSR IOS 视频教程" %}
 
 點擊圖標啟動 Shadowrocket；
 

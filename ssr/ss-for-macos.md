@@ -16,7 +16,7 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_mac.gif" %}
+{% file src="../.gitbook/assets/ssr\_mac.gif" caption="SSR MacOS 视频教程" %}
 
 运行 ShadowsocksX-NG-R8，点按屏幕顶部菜单栏中的  __图标弹出主菜单。
 

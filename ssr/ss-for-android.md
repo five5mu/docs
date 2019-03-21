@@ -16,7 +16,7 @@
 
 ## 3.配置软件.
 
-{% file src="../.gitbook/assets/ssr\_android.mp4" %}
+{% file src="../.gitbook/assets/ssr\_android.mp4" caption="SSR Android 视频教程" %}
 
 打开「**SSR 或 SSRR**」，然后轻点屏幕左上角的「**shadowsocks R ▽**」。
 
