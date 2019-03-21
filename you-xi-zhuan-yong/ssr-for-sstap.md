@@ -2,7 +2,7 @@
 
 ## 1.下载软件.
 
-下载并运行 SSR for Windows（请从本站链接下载软件）
+下载并运行 SSTap（请从本站链接下载软件）
 
 {% hint style="success" %}
 \*\*\*\*[**SSTap本地下载**](http://dl.nordss.com/SSTap-beta-setup-1.0.9.7.zip)\*\*\*\*
