@@ -13,12 +13,12 @@
 
 ## SSR教程（订阅）
 
-* [SSR Windows](ssr/ssr-for-windows.md)
-* [SSR MacOS](ssr/ss-for-macos.md)
-* [SSR Android](ssr/ss-for-android.md)
-* [SSR IOS](ssr/ss-for-ios.md)
+* [SSR Windows](ssr-tutorial/ssr-for-windows.md)
+* [SSR MacOS](ssr-tutorial/ssr-for-macos.md)
+* [SSR Android](ssr-tutorial/ssr-for-android.md)
+* [SSR IOS](ssr-tutorial/ssr-for-ios.md)
 
 ## 游戏专用
 
-* [SSTap教程](you-xi-zhuan-yong/ssr-for-sstap.md)
+* [SSTap教程](game-speedup/sstap.md)
 

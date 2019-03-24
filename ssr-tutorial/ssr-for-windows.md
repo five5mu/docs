@@ -1,6 +1,6 @@
 # SSR Windows
 
-## 1.下载软件.
+##  1.下载软件.
 
 下载并运行 SSR for Windows（请从本站链接下载软件）
 
