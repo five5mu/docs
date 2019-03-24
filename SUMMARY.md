@@ -4,7 +4,7 @@
 * [用户中心](https://ss.5mu.me/)
 * [联系我们](https://ss.5mu.me/submitticket.php)
 
-## SHADOWSOCKS原版
+## SHADOWSOCKS原版（推荐）
 
 * [Windows教程](ss-tutorial/ss-for-windows.md)
 * [MacOS教程](ss-tutorial/ss-for-macos.md)
