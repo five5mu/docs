@@ -4,9 +4,12 @@
 * [用户中心](https://ss.5mu.me/)
 * [联系我们](https://ss.5mu.me/submitticket.php)
 
-## 订制软件（最新）
+## 专属订制软件（最新）
 
-* [使用教程](v2ray/v2ray.md)
+* [Window](v2ray/v2ray.md)
+* [MacOS](v2ray/macos.md)
+* [Linux](v2ray/linux.md)
+* [Android](v2ray/android.md)
 * [IOS](v2ray/v2ray-ios.md)
 
 ## SHADOWSOCKS（原版）
