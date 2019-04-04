@@ -4,14 +4,6 @@
 * [用户中心](https://ss.5mu.me/)
 * [联系我们](https://ss.5mu.me/submitticket.php)
 
-## 专属订制软件（最新）
-
-* [Window](v2ray/v2ray.md)
-* [MacOS](v2ray/macos.md)
-* [Linux](v2ray/linux.md)
-* [Android](v2ray/android.md)
-* [IOS](v2ray/v2ray-ios.md)
-
 ## SHADOWSOCKS（原版）
 
 * [Windows教程](ss-tutorial/ss-for-windows.md)
